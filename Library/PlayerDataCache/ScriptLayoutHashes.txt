@@ -1,6 +1,6 @@
 WebGL
 PlayerPath?
-C:/Users/ponkotu/OneDrive/razerblade/bokeh
+C:/Users/ponkotu/OneDrive/razerblade/bokeh_control
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
