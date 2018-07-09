@@ -1,7 +1,7 @@
 # bokef_control
 [デモ](https://kzkponkotu.github.io/bokef_control/)
 
-unity 2018.1.0f2で開発
+Unity 2018.1.0f2で開発
 
 ぼかしをコントロール
 
